@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepakarthick156/leetcode/tree/master/0001-two-sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Hash Table
 |  |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [3174-clear-digits](https://github.com/Deepakarthick156/leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
+| [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [3174-clear-digits](https://github.com/Deepakarthick156/leetcode/tree/master/3174-clear-digits) |
 ## Simulation
 |  |

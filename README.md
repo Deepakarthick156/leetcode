@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Deepakarthick156/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Deepakarthick156/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0461-hamming-distance](https://github.com/Deepakarthick156/leetcode/tree/master/0461-hamming-distance) |
 ## Binary Search
 |  |
 | ------- |

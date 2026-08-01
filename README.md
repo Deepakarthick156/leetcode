@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepakarthick156/leetcode/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Deepakarthick156/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
@@ -60,6 +62,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Deepakarthick156/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Deepakarthick156/leetcode/tree/master/0371-sum-of-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

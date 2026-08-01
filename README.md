@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepakarthick156/leetcode/tree/master/0001-two-sum) |
+| [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Deepakarthick156/leetcode/tree/master/3174-clear-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+## Sorting
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->

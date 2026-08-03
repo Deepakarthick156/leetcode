@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Deepakarthick156/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepakarthick156/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Deepakarthick156/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Deepakarthick156/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
 |  |
 | ------- |

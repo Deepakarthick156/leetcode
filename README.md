@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepakarthick156/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3731-find-missing-elements](https://github.com/Deepakarthick156/leetcode/tree/master/3731-find-missing-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Deepakarthick156/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3731-find-missing-elements](https://github.com/Deepakarthick156/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0047-permutations-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3731-find-missing-elements](https://github.com/Deepakarthick156/leetcode/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
 | ------- |

@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Deepakarthick156/leetcode/tree/master/0007-reverse-integer) |
 | [0371-sum-of-two-integers](https://github.com/Deepakarthick156/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
 ## String
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
+| [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
 | [1544-make-the-string-great](https://github.com/Deepakarthick156/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |

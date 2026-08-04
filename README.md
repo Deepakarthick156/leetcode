@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepakarthick156/leetcode/tree/master/0001-two-sum) |
 | [0047-permutations-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Deepakarthick156/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/Deepakarthick156/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Deepakarthick156/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Deepakarthick156/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Deepakarthick156/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Deepakarthick156/leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Deepakarthick156/leetcode/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |

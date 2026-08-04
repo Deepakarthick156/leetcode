@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepakarthick156/leetcode/tree/master/0001-two-sum) |
+| [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/Deepakarthick156/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Deepakarthick156/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 | [1544-make-the-string-great](https://github.com/Deepakarthick156/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Deepakarthick156/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Deepakarthick156/leetcode/tree/master/1695-maximum-erasure-value) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->

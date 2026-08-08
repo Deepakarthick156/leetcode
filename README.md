@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Deepakarthick156/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Deepakarthick156/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/Deepakarthick156/leetcode/tree/master/3731-find-missing-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deepakarthick156/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Deepakarthick156/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3174-clear-digits](https://github.com/Deepakarthick156/leetcode/tree/master/3174-clear-digits) |
 ## Stack
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Deepakarthick156/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+## Counting
+|  |
+| ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Deepakarthick156/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 <!---LeetCode Topics End-->

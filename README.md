@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [1695-maximum-erasure-value](https://github.com/Deepakarthick156/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Deepakarthick156/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1720-decode-xored-array](https://github.com/Deepakarthick156/leetcode/tree/master/1720-decode-xored-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Deepakarthick156/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepakarthick156/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Deepakarthick156/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/Deepakarthick156/leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Deepakarthick156/leetcode/tree/master/0461-hamming-distance) |
+| [1720-decode-xored-array](https://github.com/Deepakarthick156/leetcode/tree/master/1720-decode-xored-array) |
 ## Binary Search
 |  |
 | ------- |

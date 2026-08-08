@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
 | [1544-make-the-string-great](https://github.com/Deepakarthick156/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deepakarthick156/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |

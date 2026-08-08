@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepakarthick156/leetcode/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/Deepakarthick156/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Deepakarthick156/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1695-maximum-erasure-value](https://github.com/Deepakarthick156/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
 | [1544-make-the-string-great](https://github.com/Deepakarthick156/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Deepakarthick156/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1668-maximum-repeating-substring](https://github.com/Deepakarthick156/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deepakarthick156/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |

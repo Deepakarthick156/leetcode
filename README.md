@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Deepakarthick156/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepakarthick156/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2951-find-the-peaks](https://github.com/Deepakarthick156/leetcode/tree/master/2951-find-the-peaks) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/Deepakarthick156/leetcode/tree/master/3731-find-missing-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Deepakarthick156/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Deepakarthick156/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2833-furthest-point-from-origin](https://github.com/Deepakarthick156/leetcode/tree/master/2833-furthest-point-from-origin) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Deepakarthick156/leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->

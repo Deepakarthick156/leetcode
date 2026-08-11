@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Deepakarthick156/leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
+| [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Deepakarthick156/leetcode/tree/master/2129-capitalize-the-title) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Deepakarthick156/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3174-clear-digits](https://github.com/Deepakarthick156/leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Deepakarthick156/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |
 | ------- |

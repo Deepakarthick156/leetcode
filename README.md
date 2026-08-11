@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Deepakarthick156/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepakarthick156/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Deepakarthick156/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/Deepakarthick156/leetcode/tree/master/3731-find-missing-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Deepakarthick156/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |

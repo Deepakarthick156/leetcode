@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
 | [0904-fruit-into-baskets](https://github.com/Deepakarthick156/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1539-kth-missing-positive-number](https://github.com/Deepakarthick156/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [1695-maximum-erasure-value](https://github.com/Deepakarthick156/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Deepakarthick156/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1539-kth-missing-positive-number](https://github.com/Deepakarthick156/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Backtracking
 |  |
 | ------- |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Deepakarthick156/leetcode/tree/master/2974-minimum-number-game) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Deepakarthick156/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Deepakarthick156/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Deepakarthick156/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/Deepakarthick156/leetcode/tree/master/3731-find-missing-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepakarthick156/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Deepakarthick156/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Deepakarthick156/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Deepakarthick156/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Deepakarthick156/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/Deepakarthick156/leetcode/tree/master/3731-find-missing-elements) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Deepakarthick156/leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Deepakarthick156/leetcode/tree/master/0461-hamming-distance) |
 | [1720-decode-xored-array](https://github.com/Deepakarthick156/leetcode/tree/master/1720-decode-xored-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Deepakarthick156/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
 | [0904-fruit-into-baskets](https://github.com/Deepakarthick156/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Deepakarthick156/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Deepakarthick156/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [1695-maximum-erasure-value](https://github.com/Deepakarthick156/leetcode/tree/master/1695-maximum-erasure-value) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0047-permutations-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Deepakarthick156/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepakarthick156/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |

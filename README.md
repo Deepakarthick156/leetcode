@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
+| [1332-remove-palindromic-subsequences](https://github.com/Deepakarthick156/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1544-make-the-string-great](https://github.com/Deepakarthick156/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Deepakarthick156/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deepakarthick156/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/Deepakarthick156/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [2540-minimum-common-value](https://github.com/Deepakarthick156/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Deepakarthick156/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Deepakarthick156/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakarthick156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepakarthick156/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Deepakarthick156/leetcode/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Deepakarthick156/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deepakarthick156/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Deepakarthick156/leetcode/tree/master/2129-capitalize-the-title) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakarthick156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Deepakarthick156/leetcode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Deepakarthick156/leetcode/tree/master/2833-furthest-point-from-origin) |

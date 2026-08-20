@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deepakarthick156/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Deepakarthick156/leetcode/tree/master/2129-capitalize-the-title) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakarthick156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Deepakarthick156/leetcode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Deepakarthick156/leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2540-minimum-common-value](https://github.com/Deepakarthick156/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Deepakarthick156/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepakarthick156/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Deepakarthick156/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Deepakarthick156/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |

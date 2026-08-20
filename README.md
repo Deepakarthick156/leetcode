@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepakarthick156/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Deepakarthick156/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakarthick156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Deepakarthick156/leetcode/tree/master/2540-minimum-common-value) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Deepakarthick156/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Deepakarthick156/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/Deepakarthick156/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Deepakarthick156/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Deepakarthick156/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Deepakarthick156/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepakarthick156/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2810-faulty-keyboard](https://github.com/Deepakarthick156/leetcode/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Deepakarthick156/leetcode/tree/master/2974-minimum-number-game) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepakarthick156/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepakarthick156/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Deepakarthick156/leetcode/tree/master/2974-minimum-number-game) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Deepakarthick156/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Deepakarthick156/leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->

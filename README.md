@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Deepakarthick156/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Deepakarthick156/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Deepakarthick156/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/Deepakarthick156/leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepakarthick156/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Deepakarthick156/leetcode/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Deepakarthick156/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/Deepakarthick156/leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Deepakarthick156/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Counting

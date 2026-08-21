@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Deepakarthick156/leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
+| [2544-alternating-digit-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Deepakarthick156/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |

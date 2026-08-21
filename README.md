@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
 | [2544-alternating-digit-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Deepakarthick156/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Deepakarthick156/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |

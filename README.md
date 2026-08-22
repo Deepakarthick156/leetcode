@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Deepakarthick156/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Deepakarthick156/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Deepakarthick156/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2716-minimize-string-length](https://github.com/Deepakarthick156/leetcode/tree/master/2716-minimize-string-length) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepakarthick156/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Deepakarthick156/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Deepakarthick156/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2716-minimize-string-length](https://github.com/Deepakarthick156/leetcode/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/Deepakarthick156/leetcode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Deepakarthick156/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |

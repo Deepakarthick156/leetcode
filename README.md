@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Deepakarthick156/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Deepakarthick156/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakarthick156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Deepakarthick156/leetcode/tree/master/2540-minimum-common-value) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Deepakarthick156/leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Deepakarthick156/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2544-alternating-digit-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Deepakarthick156/leetcode/tree/master/2651-calculate-delayed-arrival-time) |

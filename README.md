@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Deepakarthick156/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2405-optimal-partition-of-string](https://github.com/Deepakarthick156/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2540-minimum-common-value](https://github.com/Deepakarthick156/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Deepakarthick156/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Deepakarthick156/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepakarthick156/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Deepakarthick156/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/Deepakarthick156/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2490-circular-sentence](https://github.com/Deepakarthick156/leetcode/tree/master/2490-circular-sentence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakarthick156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Deepakarthick156/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/0409-longest-palindrome) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Deepakarthick156/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2405-optimal-partition-of-string](https://github.com/Deepakarthick156/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Deepakarthick156/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Deepakarthick156/leetcode/tree/master/2864-maximum-odd-binary-number) |

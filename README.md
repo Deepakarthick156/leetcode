@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Deepakarthick156/leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepakarthick156/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1518-water-bottles](https://github.com/Deepakarthick156/leetcode/tree/master/1518-water-bottles) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepakarthick156/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Deepakarthick156/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2544-alternating-digit-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Deepakarthick156/leetcode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Deepakarthick156/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Deepakarthick156/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Deepakarthick156/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |

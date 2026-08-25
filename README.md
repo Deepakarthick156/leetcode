@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Deepakarthick156/leetcode/tree/master/2129-capitalize-the-title) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepakarthick156/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Deepakarthick156/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/Deepakarthick156/leetcode/tree/master/2490-circular-sentence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakarthick156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Deepakarthick156/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Deepakarthick156/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Deepakarthick156/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Deepakarthick156/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Deepakarthick156/leetcode/tree/master/3174-clear-digits) |
 ## Simulation
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepakarthick156/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakarthick156/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2390-removing-stars-from-a-string](https://github.com/Deepakarthick156/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Deepakarthick156/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/Deepakarthick156/leetcode/tree/master/2810-faulty-keyboard) |

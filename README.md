@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Deepakarthick156/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Deepakarthick156/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Deepakarthick156/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Deepakarthick156/leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Deepakarthick156/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Deepakarthick156/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakarthick156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |

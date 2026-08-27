@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Deepakarthick156/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Deepakarthick156/leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Deepakarthick156/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3028-ant-on-the-boundary](https://github.com/Deepakarthick156/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Deepakarthick156/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Deepakarthick156/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Deepakarthick156/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Deepakarthick156/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/Deepakarthick156/leetcode/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Deepakarthick156/leetcode/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/Deepakarthick156/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Deepakarthick156/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Deepakarthick156/leetcode/tree/master/3174-clear-digits) |
 ## Two Pointers
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Deepakarthick156/leetcode/tree/master/2427-number-of-common-factors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/Deepakarthick156/leetcode/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->

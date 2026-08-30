@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
 | [0904-fruit-into-baskets](https://github.com/Deepakarthick156/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1037-valid-boomerang](https://github.com/Deepakarthick156/leetcode/tree/master/1037-valid-boomerang) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Deepakarthick156/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Deepakarthick156/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1598-crawler-log-folder](https://github.com/Deepakarthick156/leetcode/tree/master/1598-crawler-log-folder) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Deepakarthick156/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Deepakarthick156/leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Deepakarthick156/leetcode/tree/master/0598-range-addition-ii) |
+| [1037-valid-boomerang](https://github.com/Deepakarthick156/leetcode/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepakarthick156/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/Deepakarthick156/leetcode/tree/master/1518-water-bottles) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepakarthick156/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/Deepakarthick156/leetcode/tree/master/3028-ant-on-the-boundary) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Deepakarthick156/leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
